@@ -17,4 +17,12 @@ header .header_menu_container {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    height: 100%;
+}
+
+header .header_menu_container a {
+    color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
 }
